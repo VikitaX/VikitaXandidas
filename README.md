@@ -2,7 +2,6 @@
 
 🎓 Cybersecurity student  
 🧠 Currently learning through TryHackMe  
-🔐 Interested in ethical hacking & security  
 
 ## 🚀 Current Goals
 - Complete TryHackMe Beginner Path  
